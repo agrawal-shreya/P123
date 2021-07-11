@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    box-shadow: 1px 1px 38px red;
+    color: brown;
+}
+.note{
+    color:white;
+}
+.copy_right_footer{
+    color: chartreuse;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: coral;
+    width: 100%;
+
+}
+canvas{
+    width: 300;
+    height: 300;
+    box-shadow: 2px 2px 38px red;
+}
